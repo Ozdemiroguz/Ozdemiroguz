@@ -3,6 +3,7 @@
  <abc>
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY4NDM4ZGIzNjk5NWU1YzI1NmYwOTkwNzg5MTVjNDlmMjhjMzA3ZiZjdD1n/Kz682eDqEj1pznyOtR/giphy.gif" alt="Coder GIF" width="500">
  </abc>
+ ![ozdemiroguz's Stats](https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
