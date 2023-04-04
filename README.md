@@ -1,16 +1,17 @@
-<h1 style="text-alignt:center">
+<h1 style="text-alignt:center"> <p align="right"> <img src="https://komarev.com/ghpvc/?username=ozdemiroguz&label=Profile%20views&color=0e75b6&style=flat" alt="ozdemiroguz" /> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hey+There+%F0%9F%91%8B;My+name+is+Oguzhan.;Nice+to+met+you+%F0%9F%98%80" alt="Typing SVG" /></a></h1>
  <abc>
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY4NDM4ZGIzNjk5NWU1YzI1NmYwOTkwNzg5MTVjNDlmMjhjMzA3ZiZjdD1n/Kz682eDqEj1pznyOtR/giphy.gif" alt="Coder GIF" width="500">
  </abc>
- <h3>Who Am I ?</h3>
- <p align="center">Hello, I'm oğuzhan. I'm a computer engineering student and I've been writing web projects for about 1 year when I have time. I am still developing myself in web programming, if you wish, you can review the projects I have made on my profile</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozdemiroguz&label=Profile%20views&color=0e75b6&style=flat" alt="ozdemiroguz" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozdemiroguz" alt="ozdemiroguz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/birsalbe" target="blank"><img src="https://img.shields.io/twitter/follow/birsalbe?logo=twitter&style=for-the-badge" alt="birsalbe" /></a> </p>
+
+
+ <h3>Who Am I ?</h3>
+ <p align="center">Hello, I'm oğuzhan. I'm a computer engineering student and I've been writing web projects for about 1 year when I have time. I am still developing myself in web programming, if you wish, you can review the projects I have made on my profile</p>
 
 - 🔭 I’m currently working on [Websites and JavaScript Projects](https://github.com/Ozdemiroguz/Javascript-Projects)
 
