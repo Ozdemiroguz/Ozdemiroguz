@@ -46,8 +46,6 @@
         <img width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-purple&hide_border=true" />
  </a>
 
-
-
  <div width="100%" alignt="center">
 <a>
   <source 
@@ -64,7 +62,7 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ozdemiroguz&theme=midnight-purple&bg_color=20232a&hide_border=true"
         width="100%" />
    
- <br><br><br><br>
+ <br>
  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
     
 <br>
