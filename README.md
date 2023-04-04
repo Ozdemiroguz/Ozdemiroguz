@@ -54,6 +54,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-purple&hide_progress=true&hide_border=true" />
  </a>
+     <br><br>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ozdemiroguz&theme=midnight-purple&bg_color=20232a&hide_border=true"
         width="100%" />
 <!--
