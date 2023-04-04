@@ -67,7 +67,7 @@
  <br><br><br><br>
  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
     
-<br><br><br><br>
+<br>
 
 <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Javascript-Projects&hide_border=true" />
