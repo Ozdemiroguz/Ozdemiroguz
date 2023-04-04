@@ -43,13 +43,13 @@
 
 <a>
   <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&show_icons=true&theme=midnight-purple"
+  srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&show_icons=true&theme=midnight-purple&hide_border=true&"
    />
   <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true"
   media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: no-preference)"
    />
-   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&show_icons=true" />
+   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
  </a>
 
 <!--
