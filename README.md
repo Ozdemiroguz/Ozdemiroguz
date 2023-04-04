@@ -44,7 +44,6 @@
 <a>
   <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&show_icons=true&theme=midnight-purple"
-  media="(prefers-color-scheme: midnight-purple)"
    />
   <source
   srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&show_icons=true"
