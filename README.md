@@ -41,7 +41,7 @@
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ozdemiroguz&theme=midnight-purple&border=61dafb&hide_border=true"
                 alt="ozdemiroguz" /></a>
 
-        <a href="">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
             <picture><img width=390 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&show_icons=true" />
             </picture>
         </a>
