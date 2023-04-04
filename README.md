@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Hey+There+%F0%9F%91%8B;My+name+is+Oguzhan.;Nice+to+met+you+%F0%9F%98%80" alt="Typing SVG" /></a></h1>
+<h1 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hey+There+%F0%9F%91%8B;My+name+is+Oguzhan.;Nice+to+met+you+%F0%9F%98%80" alt="Typing SVG" /></a></h1>
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
