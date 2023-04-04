@@ -67,11 +67,12 @@
  <br><br><br><br>
  
  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Javascript-Projects" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Javascript-Projects&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+ <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Html-css-js-Websites&hide_border=true" />
 </a>
+
 
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
