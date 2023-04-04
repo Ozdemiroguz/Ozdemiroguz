@@ -2,8 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hey+There+%F0%9F%91%8B;My+name+is+Oguzhan.;Nice+to+met+you+%F0%9F%98%80" alt="Typing SVG" /></a></h1>
  <abc>
   <br>
-    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500">
- </abc>
+<iframe src="https://giphy.com/embed/Kz682eDqEj1pznyOtR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Kz682eDqEj1pznyOtR">via GIPHY</a></p> </abc>
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
