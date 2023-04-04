@@ -3,7 +3,8 @@
  <abc>
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY4NDM4ZGIzNjk5NWU1YzI1NmYwOTkwNzg5MTVjNDlmMjhjMzA3ZiZjdD1n/Kz682eDqEj1pznyOtR/giphy.gif" alt="Coder GIF" width="500">
  </abc>
- <h3 align="center">Hello, I'm oğuzhan. I'm a computer engineering student and I've been writing web projects for about 1 year when I have time. I am still developing myself in web programming, if you wish, you can review the projects I have made on my profile</h3>
+ <h3>Who Am I ?</h3>
+ <p align="center">Hello, I'm oğuzhan. I'm a computer engineering student and I've been writing web projects for about 1 year when I have time. I am still developing myself in web programming, if you wish, you can review the projects I have made on my profile</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozdemiroguz&label=Profile%20views&color=0e75b6&style=flat" alt="ozdemiroguz" /> </p>
 
