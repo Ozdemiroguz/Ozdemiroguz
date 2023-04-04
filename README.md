@@ -69,10 +69,11 @@
     <br><br>
     
   <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Ozdemiroguz.github.io&hide_border=true" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Ozdemiroguz.github.io&hide_border=true" />
 </a>
-<br><br>
- <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
+<br><br><br><br>
+
+<a href="https://github.com/Ozdemiroguz/Javascript-Projects">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Javascript-Projects&hide_border=true" />
 </a>
  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
