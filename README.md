@@ -65,12 +65,18 @@
         width="100%" />
    
  <br><br><br><br>
- 
+ <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+    <br><br>
+    
+  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
+  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Ozdemiroguz.github.io&hide_border=true" />
+</a>
+<br><br>
  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Javascript-Projects&hide_border=true" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Javascript-Projects&hide_border=true" />
 </a>
  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Html-css-js-Websites&hide_border=true" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Html-css-js-Websites&hide_border=true" />
 </a>
 
 
