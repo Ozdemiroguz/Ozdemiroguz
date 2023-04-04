@@ -63,6 +63,16 @@
      <br><br>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ozdemiroguz&theme=midnight-purple&bg_color=20232a&hide_border=true"
         width="100%" />
+   
+ <br><br><br><br>
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
