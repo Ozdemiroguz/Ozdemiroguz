@@ -67,7 +67,7 @@
  <br><br><br><br>
  
  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&repo=github-Javascript-Projects" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&repo=Javascript-Projects" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
