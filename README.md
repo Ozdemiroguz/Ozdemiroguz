@@ -44,9 +44,15 @@
 <br>
 <br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-purple&layout=compact&hide_border=true" />
+ </a>
 
+<br><br>
+<br>
+
+ <div width="100%" alignt="center">
 <a>
- 
   <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&show_icons=true&theme=midnight-purple&hide_border=true&"
    />
@@ -55,13 +61,6 @@
   media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: no-preference)"
    />
    <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
- </a>
-<br><br>
-<br>
-
- <div width="100%" alignt="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-purple&layout=compact&hide_border=true" />
  </a>
   </div>
      <br><br>
