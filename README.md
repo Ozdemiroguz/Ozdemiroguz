@@ -69,8 +69,8 @@
     <br><br>
 <div width="50%" align="center" >
   <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-  purple&repo=Ozdemiroguz.github.io&hide_border=true" />
- </a>
+ <img align="center" width="100%"          src="https://githubreadmestats.vercel.app/api/pin/username=ozdemiroguz&theme=midnightpurple&repo=Ozdemiroguz.github.io&hide_border=true" />
+</a>
  </div>
 <br><br><br><br>
 
