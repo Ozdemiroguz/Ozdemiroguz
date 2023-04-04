@@ -67,10 +67,11 @@
  <br><br><br><br>
  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
     <br><br>
-    
+<div width="50%" align="center" >
   <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Ozdemiroguz.github.io&hide_border=true" />
-</a>
+   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-  purple&repo=Ozdemiroguz.github.io&hide_border=true" />
+ </a>
+ </div>
 <br><br><br><br>
 
 <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
