@@ -42,7 +42,22 @@
                 alt="ozdemiroguz" />
         </a>
 
-          
+          <a href="">
+            <picture>
+                <source
+                    srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&show_icons=true&theme=midnight-purple"
+                    media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&show_icons=true"
+                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img width=390 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&show_icons=true" />
+            </picture>
+        </a>
+
+
+        <a href="https://github.com/anuraghazra/convoychat">
+            <img align="center" width="390"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=ozdemiroguz&theme=midnight-purple&layout=compact" />
+        </a>
 
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
