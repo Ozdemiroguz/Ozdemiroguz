@@ -37,7 +37,7 @@
     <br>
     <p align=center>
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-            <img align="left" width=300
+            <img align="left" width=320
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ozdemiroguz&theme=midnight-purple&border=61dafb&hide_border=true"
                 alt="ozdemiroguz" /></a>
 
@@ -49,10 +49,10 @@
   srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true"
   media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: no-preference)"
    />
-   <img align="right" width=300 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
+   <img align="right" width=320 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
  </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&layout=compact" />
+        <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&hide_progress=true" />
  </a>
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
