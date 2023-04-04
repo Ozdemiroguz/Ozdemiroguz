@@ -37,7 +37,7 @@
     <br>
     <p align=center>
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-            <img align="left" width=400
+            <img align="left" width=420
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ozdemiroguz&theme=midnight-purple&border=61dafb&hide_border=true"
                 alt="ozdemiroguz" /></a>
 
@@ -49,18 +49,31 @@
   srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true"
   media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: no-preference)"
    />
-   <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
+   <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
  </a>
-<br><br><br><br>
-<div width="100%" align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"> 
-       <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-        
-                                          purple&hide_progress=true&hide_border=true" />
-  </a>
-</div>
+<br>
+ <div width="100%" alignt="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+        <img width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-purple&hide_progress=true&hide_border=true" />
+ </a>
+  </div>
      <br><br>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ozdemiroguz&theme=midnight-purple&bg_color=20232a&hide_border=true"
         width="100%" />
+<!--
+**Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!--
 **Ozdemiroguz/Ozdemiroguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
