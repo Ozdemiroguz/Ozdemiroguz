@@ -39,14 +39,10 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
             <img align="left" width=390
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ozdemiroguz&theme=midnight-purple&border=61dafb&hide_border=true"
-                alt="ozdemiroguz" />
-        </a>
+                alt="ozdemiroguz" /></a>
 
-            <a href="">
-            <picture>
-
-                <img width=390
-                    src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&show_icons=true" />
+        <a href="">
+            <picture><img width=390 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&show_icons=true" />
             </picture>
         </a>
 
