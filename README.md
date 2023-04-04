@@ -43,7 +43,7 @@
  
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-purple&hide_border=true" />
+        <img width=450 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdemiroguz&theme=midnight-purple&hide_border=true" />
  </a>
 
 
@@ -57,7 +57,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true"
   media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: no-preference)"
    />
-   <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
+   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=ozdemiroguz&theme=midnight-purple&hide_border=true&show_icons=true" />
  </a>
   </div>
      <br><br>
