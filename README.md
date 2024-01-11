@@ -2,7 +2,9 @@
 <a href="https://git.io/typing-svg"><img align="left " src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hey+There+%F0%9F%91%8B;My+name+is+Oguzhan.;Nice+to+met+you+%F0%9F%98%80" alt="Typing SVG" /></a></h1>
 
  <h2 align="center">🤷‍♂️ Who Am I? 🤷‍♂️</h2>
- <p align="center">Hello, I'm oğuzhan. I'm a computer engineering student and I've been writing web projects for about 1 year when I have time. I am still developing myself in web programming, if you wish, you can review the projects I have made on my profile</p>
+ <p align="center">
+About Me
+I am a computer engineering student. I entered the software world by starting with web foundations and later enhanced my skills in JavaScript. Currently, I am focusing on both backend development and mobile application development using Flutter.</p>
 
 - 🔭 I’m currently working on [Websites and JavaScript Projects](https://github.com/Ozdemiroguz/Javascript-Projects)
 
