@@ -8,7 +8,7 @@ I am a computer engineering student. I entered the software world by starting wi
 
 - 🔭 I’m currently working on [Websites and JavaScript Projects](https://github.com/Ozdemiroguz/Javascript-Projects)
 
-- 🌱 I’m currently learning [**Js FrameWorks**](https://github.com/Ozdemiroguz/FlutterProject)
+- 🌱 I’m currently learning [Flutter Projects](https://github.com/Ozdemiroguz/FlutterProject)
 
 - 👨‍💻 All of my projects are available at [ozdemiroguz.github.io](ozdemiroguz.github.io)
 
