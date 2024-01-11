@@ -1,10 +1,6 @@
 <h1 style="text-alignt:center"> <p align="right"> <img src="https://komarev.com/ghpvc/?username=ozdemiroguz&label=Profile%20views&color=0e75b6&style=flat" alt="ozdemiroguz" /> </p>
 <a href="https://git.io/typing-svg"><img align="left " src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hey+There+%F0%9F%91%8B;My+name+is+Oguzhan.;Nice+to+met+you+%F0%9F%98%80" alt="Typing SVG" /></a></h1>
-<br>
- <abc>
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE5MzA5YTBkZTFjZDU2NzI4ODU3ODMzNjJlZDIzNWFlNDg5M2NlNyZjdD1n/rXKSfHJYDGLRgimqhP/giphy.gif" alt="Coder GIF" width="100%" align="center">
- </abc>
-<br>
+
 
  <h2 align="center">🤷‍♂️ Who Am I? 🤷‍♂️</h2>
  <p align="center">Hello, I'm oğuzhan. I'm a computer engineering student and I've been writing web projects for about 1 year when I have time. I am still developing myself in web programming, if you wish, you can review the projects I have made on my profile</p>
