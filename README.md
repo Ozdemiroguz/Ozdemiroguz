@@ -8,11 +8,9 @@ I am a computer engineering student. I entered the software world by starting wi
 
 - 🔭 I’m currently working on [Websites and JavaScript Projects](https://github.com/Ozdemiroguz/Javascript-Projects)
 
-- 🌱 I’m currently learning **Js FrameWorks**
+- 🌱 I’m currently learning [**Js FrameWorks**](https://github.com/Ozdemiroguz/FlutterProject)
 
 - 👨‍💻 All of my projects are available at [ozdemiroguz.github.io](ozdemiroguz.github.io)
-
-- 📝 I regularly write articles on [https://www.instagram.com/webc0ding/](https://www.instagram.com/webc0ding/)
 
 - 💬 Ask me about **Html Css JavaScript**
 
