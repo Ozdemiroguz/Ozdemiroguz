@@ -48,7 +48,7 @@ I am a computer engineering student. I entered the software world by starting wi
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=GreenScore&hide_border=true" />
 </a>
  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Html-css-js-Websites&hide_border=true" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Note-taking-app&hide_border=true" />
 </a>
 
 
