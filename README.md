@@ -44,7 +44,7 @@ I am a computer engineering student. I entered the software world by starting wi
     
 <br>
 
-<a href="https://github.com/Ozdemiroguz/Javascript-Projects">
+<a href="https://github.com/Ozdemiroguz/GreenScore">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Javascript-Projects&hide_border=true" />
 </a>
  <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
