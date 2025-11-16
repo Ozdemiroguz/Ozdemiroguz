@@ -40,16 +40,6 @@ I am a computer engineering student. I entered the software world by starting wi
    <br>
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozdemiroguz" alt="ozdemiroguz" /></a> </p>
  <br>
- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-    
-<br>
-
-<a href="https://github.com/Ozdemiroguz/GreenScore">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=GreenScore&hide_border=true" />
-</a>
- <a href="https://github.com/Ozdemiroguz/Javascript-Projects">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ozdemiroguz&theme=midnight-purple&repo=Note-taking-app&hide_border=true" />
-</a>
 
 
 <!--
